@@ -1,5 +1,5 @@
 function hello(str) {
-    // Add your solution here!
+    console.log(`Hello ${str}`)
 };
 
 module.exports = hello;
