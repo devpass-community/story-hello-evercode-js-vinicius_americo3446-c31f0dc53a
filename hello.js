@@ -1,5 +1,6 @@
 function hello(str) {
-    console.log(`Hello ${str}`)
+    const name = str
+    return "hello " + str;
 };
 
 module.exports = hello;
